@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Привет!!!</string>
+    <string name="password">Пароль</string>
+    <string name="click">Войти</string>
+    <string name="fab_content_desc">Добавить</string>
+    <string name="login_name">Имя</string>
+    <string name="login_password">Пароль</string>
+    <string name="back">Назад</string>
+    <string name="wrong_password">Неверный пароль</string>
+</resources>
